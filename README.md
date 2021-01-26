@@ -21,7 +21,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 $ git clone https://github.com/RambaraRambara/Food-Sweet.git
 
 # Go into the repository
-$ cd food-bit-app
+$ cd Food-Sweet
 
 # Install dependencies
 $ flutter packages get
