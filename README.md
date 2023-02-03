@@ -11,21 +11,3 @@
   <img width="200" src="https://i.pinimg.com/originals/71/48/83/71488355343439cda79b073705efb022.png"/>
   <img width="200" src="https://i.pinimg.com/originals/12/dd/f9/12ddf9a45d72eb087366afeb1e7437ae.png"/>
 </p>
-
-## How to use
-
-To clone and run this application, you'll need [Git](https://git-scm.com/downloads) and [Flutter](https://flutter.dev/docs/get-started/install) installed on your computer. From your command line:
-
-```
-# Clone this repository
-$ git clone https://github.com/TrueSatisfy/Food-Sweet.git
-
-# Go into the repository
-$ cd Food-Sweet
-
-# Install dependencies
-$ flutter packages get
-
-# Run the app
-$ flutter run
-```
